@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{cffaf3e0-d351-4d80-97f0-ea63e726ae95}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{88a8ec93-a962-48f4-aec4-ab53464bcf9f}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Segment">
+      <UniqueIdentifier>{3d85b273-3517-48df-9f09-f1b0fd42b6f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Result">
+      <UniqueIdentifier>{7269b45b-2e4c-4923-821b-00ea5507ca30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{c004f577-84e4-4164-a999-62ce6330755b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unknown">
+      <UniqueIdentifier>{fe1531c3-08c3-45c2-854f-868dc7ab28da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tag">
+      <UniqueIdentifier>{89d6a1d2-22cd-4f5e-8cf9-5f232260c191}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ICTCALS.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicArray.cpp">
+      <Filter>Segment</Filter>
+    </ClCompile>
+    <ClCompile Include="NShortPath.cpp">
+      <Filter>Segment</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue.cpp">
+      <Filter>Segment</Filter>
+    </ClCompile>
+    <ClCompile Include="SegGraph.cpp">
+      <Filter>Segment</Filter>
+    </ClCompile>
+    <ClCompile Include="Segment.cpp">
+      <Filter>Segment</Filter>
+    </ClCompile>
+    <ClCompile Include="Result.cpp">
+      <Filter>Result</Filter>
+    </ClCompile>
+    <ClCompile Include="ContextStat.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Dictionary.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="UnknowWord.cpp">
+      <Filter>Unknown</Filter>
+    </ClCompile>
+    <ClCompile Include="Span.cpp">
+      <Filter>Tag</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ICTCLAS.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicArray.h">
+      <Filter>Segment</Filter>
+    </ClInclude>
+    <ClInclude Include="NShortPath.h">
+      <Filter>Segment</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>Segment</Filter>
+    </ClInclude>
+    <ClInclude Include="SegGraph.h">
+      <Filter>Segment</Filter>
+    </ClInclude>
+    <ClInclude Include="Segment.h">
+      <Filter>Segment</Filter>
+    </ClInclude>
+    <ClInclude Include="Result.h">
+      <Filter>Result</Filter>
+    </ClInclude>
+    <ClInclude Include="ContextStat.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Dictionary.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="UnknowWord.h">
+      <Filter>Unknown</Filter>
+    </ClInclude>
+    <ClInclude Include="Span.h">
+      <Filter>Tag</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

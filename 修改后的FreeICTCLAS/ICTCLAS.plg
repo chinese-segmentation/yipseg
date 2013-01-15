@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ICTCLAS - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\haizj\LOCALS~1\Temp\RSP2F7.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_MBCS" /D "_LIB" /Fp"Debug/ICTCLAS.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"D:\ICTCLAS\ICTCALS.CPP"
+]
+Creating command line "cl.exe @C:\DOCUME~1\haizj\LOCALS~1\Temp\RSP2F7.tmp" 
+<h3>Output Window</h3>
+Compiling...
+ICTCALS.CPP
+
+
+
+<h3>Results</h3>
+ICTCALS.OBJ - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
